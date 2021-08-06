@@ -1,0 +1,10 @@
+# Vai hard-coded msm pq to com sono e n quero pensar
+print(' '*7 + 'A')
+print(' '*6 + 'B' + ' '*1 + 'B') 
+print(' '*5 + 'C' + ' '*3 + 'C')
+print(' '*4 + 'D' + ' '*5 + 'D')
+print(' '*3 + 'E' + ' '*7 + 'E')
+print(' '*4 + 'D' + ' '*5 + 'D')
+print(' '*5 + 'C' + ' '*3 + 'C')
+print(' '*6 + 'B' + ' '*1 + 'B') 
+print(' '*7 + 'A')
